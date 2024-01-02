@@ -8,9 +8,9 @@ count = 0
 keys = []
 
 
-                print("--------------------")
-                print("Created By Toor")
-                print ("--------------------")
+print("--------------------")   
+print("Created By Toor")
+print ("--------------------")
 
 
 def on_press(key):
