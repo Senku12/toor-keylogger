@@ -7,6 +7,17 @@ from pynput.keyboard import Key,Listener
 count = 0
 keys = []
 
+    
+			
+              █████████████████████████████████████
+			  █▄─▄▄▀█▄─▄▄─█▄─▄▄▀█─▄▄▄▄█▄─▄▄─█─▄▄▄─█
+			  ██─██─██─▄█▀██─██─█▄▄▄▄─██─▄█▀█─███▀█
+			  ▀▄▄▄▄▀▀▄▄▄▄▄▀▄▄▄▄▀▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀
+                print("--------------------")
+                print("Created By Toor")
+                print ("--------------------")
+
+
 def on_press(key):
     global count,keys
     count += 1
